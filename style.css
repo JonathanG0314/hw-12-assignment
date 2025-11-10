@@ -95,7 +95,7 @@ span {
 
 .two {
   background-image: url("https://cosleyzoo.org/wp-content/uploads/Nine-banded-Armadillo.jpg");
- 
+  color: black;
 }
 
 .three {
@@ -104,7 +104,7 @@ span {
 
 .four {
   background-image: url("https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/23/2020/05/armadillo-web-sized.jpg");
-  
+  color: black;
 }
 
 /* Our Work section */
@@ -150,7 +150,7 @@ span {
 footer {
   width: 100%;
   height: 300px;
-  background-color: black;
+  background-color: blue;
   color: white;
   margin-top: 80px;
   padding-top: 50px;
