@@ -7,7 +7,7 @@
 /* Base */
 html {
   width: 100vw;
-  font-family: "Domine", serif;
+  font-family: "Oswald", serif;
   font-size: 14px;
 }
 
@@ -35,7 +35,7 @@ nav a {
 }
 
 nav a:hover {
-  color: lightblue;
+  color: green;
   text-decoration: underline;
 }
 
@@ -66,7 +66,7 @@ section {
 }
 
 span {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Noto Sans', serif;
 }
 
 /* Team section */
@@ -90,20 +90,20 @@ span {
 }
 
 .one {
-  background-image: url("https://cdn.glitch.global/1cc6f652-bbd8-49b1-823c-5782ce1266fd/pexels-anna-shvets-4587973.jpg?v=1666036500186");
+  background-image: url("https://fieldreport.caes.uga.edu/wp-content/uploads/2025/04/C866-2-900x600-1.jpg");
 }
 
 .two {
-  background-image: url("https://cdn.glitch.global/1cc6f652-bbd8-49b1-823c-5782ce1266fd/pexels-anna-shvets-4588438.jpg?v=1666036492026");
+  background-image: url("https://cosleyzoo.org/wp-content/uploads/Nine-banded-Armadillo.jpg");
   color: black;
 }
 
 .three {
-  background-image: url("https://cdn.glitch.global/1cc6f652-bbd8-49b1-823c-5782ce1266fd/pexels-anna-shvets-4587976.jpg?v=1666036487198");
+  background-image: url("https://www.lakeway-tx.gov/ImageRepository/Document?documentId=37385");
 }
 
 .four {
-  background-image: url("https://cdn.glitch.global/1cc6f652-bbd8-49b1-823c-5782ce1266fd/charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg?v=1666108357584");
+  background-image: url("https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/23/2020/05/armadillo-web-sized.jpg");
   color: black;
 }
 
